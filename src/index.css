@@ -1,0 +1,107 @@
+@import 'react-toastify/dist/ReactToastify.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9fafb;
+    color: #1f2937;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  input, textarea, select {
+    font-family: inherit;
+  }
+}
+
+/* Toast Customization */
+.Toastify__toast-container {
+  width: 320px;
+  max-width: 320px;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.Toastify__toast {
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.4;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--success {
+  background-color: #10b981;
+  color: white;
+}
+
+.Toastify__toast--error {
+  background-color: #ef4444;
+  color: white;
+}
+
+.Toastify__toast--info {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.Toastify__toast--warning {
+  background-color: #f59e0b;
+  color: white;
+}
+
+.Toastify__progress-bar {
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.Toastify__close-button {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.Toastify__close-button:hover {
+  color: white;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f3f4f6;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9ca3af;
+}
+
+/* Animations */
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s ease-in-out infinite;
+  background: linear-gradient(90deg, #f3f4f6 0%, #e5e7eb 50%, #f3f4f6 100%);
+  background-size: 200px 100%;
+}

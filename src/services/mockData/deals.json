@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "title": "Enterprise CRM Implementation",
+    "value": 75000,
+    "stage": "proposal",
+    "contactId": 1,
+    "probability": 75,
+    "closedDate": "2024-02-15T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "AI Analytics Platform",
+    "value": 120000,
+    "stage": "qualified",
+    "contactId": 2,
+    "probability": 60,
+    "closedDate": "2024-03-01T00:00:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "Financial Dashboard System",
+    "value": 95000,
+    "stage": "closed",
+    "contactId": 3,
+    "probability": 100,
+    "closedDate": "2024-01-30T00:00:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Retail Management Suite",
+    "value": 45000,
+    "stage": "prospect",
+    "contactId": 4,
+    "probability": 25,
+    "closedDate": "2024-04-15T00:00:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Healthcare Data Platform",
+    "value": 85000,
+    "stage": "qualified",
+    "contactId": 5,
+    "probability": 70,
+    "closedDate": "2024-02-28T00:00:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "Manufacturing ERP Integration",
+    "value": 150000,
+    "stage": "proposal",
+    "contactId": 6,
+    "probability": 80,
+    "closedDate": "2024-03-15T00:00:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Education Management System",
+    "value": 35000,
+    "stage": "prospect",
+    "contactId": 7,
+    "probability": 30,
+    "closedDate": "2024-05-01T00:00:00Z"
+  },
+  {
+    "Id": 8,
+    "title": "Cloud Infrastructure Setup",
+    "value": 65000,
+    "stage": "qualified",
+    "contactId": 8,
+    "probability": 65,
+    "closedDate": "2024-03-10T00:00:00Z"
+  }
+]

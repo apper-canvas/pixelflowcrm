@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "type": "call",
+    "contactId": 1,
+    "description": "Initial discovery call to discuss CRM requirements and current pain points",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "completed": true
+  },
+  {
+    "Id": 2,
+    "type": "email",
+    "contactId": 1,
+    "description": "Sent proposal document and pricing information for enterprise CRM solution",
+    "timestamp": "2024-01-16T09:15:00Z",
+    "completed": true
+  },
+  {
+    "Id": 3,
+    "type": "meeting",
+    "contactId": 2,
+    "description": "Product demo scheduled for AI analytics platform capabilities",
+    "timestamp": "2024-01-18T14:00:00Z",
+    "completed": true
+  },
+  {
+    "Id": 4,
+    "type": "follow_up",
+    "contactId": 3,
+    "description": "Follow up on contract signing and implementation timeline",
+    "timestamp": "2024-01-20T11:30:00Z",
+    "completed": false
+  },
+  {
+    "Id": 5,
+    "type": "call",
+    "contactId": 4,
+    "description": "Qualification call to understand retail management needs and budget",
+    "timestamp": "2024-01-12T15:45:00Z",
+    "completed": true
+  },
+  {
+    "Id": 6,
+    "type": "task",
+    "contactId": 5,
+    "description": "Prepare technical documentation for healthcare compliance requirements",
+    "timestamp": "2024-01-19T09:30:00Z",
+    "completed": false
+  },
+  {
+    "Id": 7,
+    "type": "meeting",
+    "contactId": 6,
+    "description": "Stakeholder meeting to review ERP integration requirements",
+    "timestamp": "2024-01-17T13:00:00Z",
+    "completed": true
+  },
+  {
+    "Id": 8,
+    "type": "email",
+    "contactId": 7,
+    "description": "Sent information about education management system features and pricing",
+    "timestamp": "2024-01-16T16:20:00Z",
+    "completed": true
+  },
+  {
+    "Id": 9,
+    "type": "call",
+    "contactId": 8,
+    "description": "Technical discussion about cloud infrastructure requirements",
+    "timestamp": "2024-01-21T08:15:00Z",
+    "completed": true
+  },
+  {
+    "Id": 10,
+    "type": "note",
+    "contactId": 9,
+    "description": "Consulting engagement scope discussion - needs custom solution approach",
+    "timestamp": "2024-01-14T15:30:00Z",
+    "completed": true
+  },
+  {
+    "Id": 11,
+    "type": "task",
+    "contactId": 10,
+    "description": "Research fintech compliance requirements for startup solution",
+    "timestamp": "2024-01-13T17:00:00Z",
+    "completed": false
+  },
+  {
+    "Id": 12,
+    "type": "follow_up",
+    "contactId": 2,
+    "description": "Check on demo feedback and next steps for AI platform evaluation",
+    "timestamp": "2024-01-22T10:00:00Z",
+    "completed": false
+  }
+]

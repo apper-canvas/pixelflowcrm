@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Solutions",
+    "tags": ["prospect", "enterprise", "tech"],
+    "lastContact": "2024-01-15T10:30:00Z",
+    "createdAt": "2024-01-01T09:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Michael Chen",
+    "email": "m.chen@innovate.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "Innovate Labs",
+    "tags": ["qualified", "startup", "ai"],
+    "lastContact": "2024-01-18T14:15:00Z",
+    "createdAt": "2024-01-05T11:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalfinance.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Global Finance Inc",
+    "tags": ["client", "finance", "enterprise"],
+    "lastContact": "2024-01-20T16:45:00Z",
+    "createdAt": "2023-12-15T08:20:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "David Thompson",
+    "email": "david.thompson@retailplus.com",
+    "phone": "+1 (555) 456-7890",
+    "company": "RetailPlus",
+    "tags": ["prospect", "retail", "medium"],
+    "lastContact": "2024-01-12T12:00:00Z",
+    "createdAt": "2024-01-08T15:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Lisa Wang",
+    "email": "lisa.wang@healthtech.org",
+    "phone": "+1 (555) 567-8901",
+    "company": "HealthTech Solutions",
+    "tags": ["qualified", "healthcare", "priority"],
+    "lastContact": "2024-01-19T09:30:00Z",
+    "createdAt": "2024-01-03T13:15:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "James Anderson",
+    "email": "j.anderson@manufacturing.co",
+    "phone": "+1 (555) 678-9012",
+    "company": "Anderson Manufacturing",
+    "tags": ["client", "manufacturing", "enterprise"],
+    "lastContact": "2024-01-17T11:20:00Z",
+    "createdAt": "2023-11-20T10:00:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "Maria Garcia",
+    "email": "maria.garcia@edutech.edu",
+    "phone": "+1 (555) 789-0123",
+    "company": "EduTech Institute",
+    "tags": ["prospect", "education", "nonprofit"],
+    "lastContact": "2024-01-16T13:45:00Z",
+    "createdAt": "2024-01-10T16:30:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "Robert Kim",
+    "email": "robert.kim@cloudservices.net",
+    "phone": "+1 (555) 890-1234",
+    "company": "Cloud Services Pro",
+    "tags": ["qualified", "saas", "tech"],
+    "lastContact": "2024-01-21T08:15:00Z",
+    "createdAt": "2024-01-04T12:45:00Z"
+  },
+  {
+    "Id": 9,
+    "name": "Jennifer Brown",
+    "email": "jennifer.brown@consulting.biz",
+    "phone": "+1 (555) 901-2345",
+    "company": "Brown Consulting Group",
+    "tags": ["client", "consulting", "small"],
+    "lastContact": "2024-01-14T15:30:00Z",
+    "createdAt": "2023-12-28T14:20:00Z"
+  },
+  {
+    "Id": 10,
+    "name": "Alex Turner",
+    "email": "alex.turner@startup.io",
+    "phone": "+1 (555) 012-3456",
+    "company": "Turner Innovations",
+    "tags": ["prospect", "startup", "fintech"],
+    "lastContact": "2024-01-13T17:00:00Z",
+    "createdAt": "2024-01-07T11:10:00Z"
+  }
+]
