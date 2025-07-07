@@ -6,6 +6,9 @@ import ContactsPage from '@/components/pages/ContactsPage';
 import PipelinePage from '@/components/pages/PipelinePage';
 import ActivitiesPage from '@/components/pages/ActivitiesPage';
 import TagsPage from '@/components/pages/TagsPage';
+import ProjectsPage from '@/components/pages/ProjectsPage';
+import SettingsPage from '@/components/pages/SettingsPage';
+import AnalyticsPage from '@/components/pages/AnalyticsPage';
 
 function App() {
   return (
@@ -15,9 +18,12 @@ function App() {
           <Routes>
             <Route path="/" element={<ContactsPage />} />
             <Route path="/contacts" element={<ContactsPage />} />
-            <Route path="/pipeline" element={<PipelinePage />} />
+<Route path="/pipeline" element={<PipelinePage />} />
             <Route path="/activities" element={<ActivitiesPage />} />
             <Route path="/tags" element={<TagsPage />} />
+            <Route path="/projects" element={<ProjectsPage />} />
+            <Route path="/settings" element={<SettingsPage />} />
+            <Route path="/analytics" element={<AnalyticsPage />} />
           </Routes>
         </Layout>
         <ToastContainer
